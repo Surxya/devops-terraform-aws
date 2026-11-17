@@ -52,7 +52,7 @@ Ran Aquasec Trivy (`trivy config /src`) across all Terraform modules and Dockerf
 
 ## Verification & Screenshots
 
-* **Live App & Proxy:** ![App in Browser]<img width="956" height="442" alt="app-in-browser" src="https://github.com/user-attachments/assets/f7a097cf-0a22-418a-b5ac-6ab898a6d28a" />
+* **Live App & Proxy:** <img width="956" height="442" alt="app-in-browser" src="https://github.com/user-attachments/assets/f7a097cf-0a22-418a-b5ac-6ab898a6d28a" />
 
 * **S3 Remote State:** <img width="944" height="570" alt="s3-state-bucket" src="https://github.com/user-attachments/assets/1f1985cb-03b9-4e82-adf8-19e02cae581d" />
 
