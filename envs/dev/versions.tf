@@ -24,6 +24,7 @@ provider "aws" {
       Env       = "dev"
       ManagedBy = "terraform"
       Owner     = "surya"
+      Team      = "devops"
     }
   }
 }
