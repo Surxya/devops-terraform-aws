@@ -52,11 +52,11 @@ Ran Aquasec Trivy (`trivy config /src`) across all Terraform modules and Dockerf
 
 ## Verification & Screenshots
 
-* **Live App & Proxy:** ![App in Browser](docs/screenshots/app-in-browser.png)
-* **EC2 Instance:** ![EC2 Instance](docs/screenshots/ec2-running-instance.png)
-* **S3 Remote State:** ![S3 State](docs/screenshots/s3-state-bucket.png)
-* **CloudWatch & SNS Alerting:** ![CloudWatch Alarm](docs/screenshots/cloudwatch-sns-alarm.png)
-* **Trivy IaC Security Scan:** ![Trivy Scan](docs/screenshots/trivy-security-scan.png)
+* **Live App & Proxy:** ![App in Browser]<img width="956" height="442" alt="app-in-browser" src="https://github.com/user-attachments/assets/f7a097cf-0a22-418a-b5ac-6ab898a6d28a" />
+* **EC2 Instance:** <img width="959" height="573" alt="ec2-running-instance" src="https://github.com/user-attachments/assets/994b4b6b-3c0e-4d8d-b93e-48ffb74d79d8" />
+* **S3 Remote State:** <img width="944" height="570" alt="s3-state-bucket" src="https://github.com/user-attachments/assets/1f1985cb-03b9-4e82-adf8-19e02cae581d" />
+* **CloudWatch & SNS Alerting:** <img width="955" height="518" alt="cloudwatch-sns-alarm" src="https://github.com/user-attachments/assets/76fc7750-827c-43b6-926f-dd48abf737f6" />
+* **Trivy IaC Security Scan:** <img width="947" height="488" alt="trivy-security-scan" src="https://github.com/user-attachments/assets/9d7a1465-2ec2-43cd-b2a6-fd05235bb208" />
 
 ## Cost Notes & Cleanup
 
